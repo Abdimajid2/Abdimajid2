@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 software Developer
 ------------------
 
-I am a student specializing in Software Development with .NET
+I am a junior software developer
 
-* 🌍  I'm based in Eskilstuna, Sweden
+* 🌍  I'm based in Sweden
 * ✉️  You can contact me at [Abdimajid.mahamed1@gmail.com](mailto:Abdimajid.mahamed1@gmail.com)
-* 🧠  I'm learning C#, .NET FRAMEWORK
+* 🧠  My main language is C#
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
